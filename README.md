@@ -1,7 +1,7 @@
 # KMeansJS.AI
 A Pure Javascript based K-Means Generator and clustering algorithm. The code is highly reusable and works with HTML5 & D3.js.
 
-Check the game out:
+Check the Visualization out (It's interactive):
 [https://wilkhu90.herokuapp.com/#/Kmeans](https://wilkhu90.herokuapp.com/#/Kmeans)
 
 # Screenshots
